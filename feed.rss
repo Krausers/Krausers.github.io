@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>My portfolio</title>
+		<link><![CDATA[https://krausers.github.io]]></link>
+		<description>Hi, I'm Denis-UX / UI designer from Minsk. I am interested in design and everything related to it. I am taking courses in web and mobile design and interfaces...</description>
+		<language>en</language>
+		<pubDate>Fri, 28 Aug 2020 14:37:08 +0300</pubDate>
+		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
+
+		<item>
+			<guid isPermaLink="false">1806722982</guid>
+			<title>My portfolio</title>
+			<link>https://krausers.github.io/ru/</link>
+			<dc:creator>Администратор</dc:creator>
+			<category>Новости сайта</category>
+			<description>Привет, Я Денис — UX | UI дизайнер из Минска. Меня интересует дизайн и все, что с ним связано. Я учусь на курсах веб-и мобильный дизайн и интерфейсы...</description>
+			<pubDate>Fri, 28 Aug 2020 14:37:08 +0300</pubDate>
+		</item>
+	</channel>
+</rss>
